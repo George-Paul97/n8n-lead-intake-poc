@@ -1,0 +1,10 @@
+# env
+.env
+
+# node
+mock-provider/node_modules
+mock-provider/npm-debug.log*
+mock-provider/yarn-error.log*
+
+# n8n local exports or temp
+workflows/*.json.bak
